@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881887746156",
+    "project_id": "fir-april-b7b09",
+    "storage_bucket": "fir-april-b7b09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881887746156:android:8d1a72ba4cec06bf3d6049",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapril"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881887746156-84a1imsupp3hr410ermr7l1pj2ve2r19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXvBecJ0MyrcoqMKx7qZncnsK7HEnksI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881887746156-84a1imsupp3hr410ermr7l1pj2ve2r19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
